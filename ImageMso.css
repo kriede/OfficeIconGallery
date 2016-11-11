@@ -1,0 +1,40 @@
+body {
+  font-family: "Segoe UI Semilight","Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+}
+
+.mso-list {
+}
+
+.mso-list li,
+.awesomplete > ul > li {
+  float: left;
+  display: inline;
+  xwidth: 20em;
+  margin-bottom: 1em;
+}
+
+.mso-list img {
+}
+
+h1,
+.mso-filter,
+.mso-list span,
+.awesomplete span {
+  margin-left: 2em;
+}
+
+.awesomplete {
+  width: 100%;
+}
+
+li img {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  float: left;
+}
+li span {
+  white-space: nowrap;
+  width: 22em;
+  float: left;
+}
